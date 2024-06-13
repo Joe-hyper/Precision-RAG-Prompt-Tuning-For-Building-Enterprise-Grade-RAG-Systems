@@ -19,17 +19,17 @@ Integration of various ranking and matching mechanisms for comprehensive evaluat
 Installation
 Clone the repository:
 
-bash
+```bash
 Copy code
 git clone https://github.com/your-username/prompt-engineering-system.git
 Install dependencies:
 
-bash
+```bash
 Copy code
 pip install -r requirements.txt
 Run the system:
 
-bash
+```bash
 Copy code
 python code/prompt_engineering_system.py
 Usage
